@@ -1,6 +1,8 @@
 # BigBlueButton Docker
 # Agradecimiento a alangecker por su gran trabajo!
 
+
+- Mira el siguiente Link https://luiszambrana.com.ar/2021/01/17/buscas-un-software-de-codigo-abierto-para-dar-clases-big-blue-button-es-la-opcion/
 - Instalación muy facil
 - Se incluye Greenlight
 - Certificados HTTPS
